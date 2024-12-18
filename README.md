@@ -1,4 +1,4 @@
-# Loan Repayment Prediction Using-Decision Tree and Random Forest-Models
+# Loan Repayment Prediction Using Decision Tree and Random Forest Models :dollar:
 
 ## Objective
 This project aims to predict whether borrowers will fully repay their loans using machine learning techniques. The dataset, sourced from Lending Club (2007-2010), provides valuable borrower and loan details. The primary goal is to create accurate classification models to assist investors in evaluating loan risk.
